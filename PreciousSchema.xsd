@@ -16,6 +16,7 @@
             <xs:sequence>
                 <xs:element ref="inMovie:modsSection" minOccurs="0"/>
                 <xs:element name="relatedMovie" type="xs:string" minOccurs="1"/>
+                <xs:element name="itemType" type="xs:string" minOccurs="0"/>
                 <xs:element ref="inMovie:relatedCharacter" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element ref="inMovie:vraSection" minOccurs="0"/>
             </xs:sequence>
