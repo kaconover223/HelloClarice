@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://github.com/kaconover223/HelloClarice"
-    xmlns:inMovie="https://github.com/kaconover223/HelloClarice"
+    xmlns:precious="https://github.com/kaconover223/HelloClarice"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
     elementFormDefault="qualified">
 
@@ -10,15 +10,36 @@
     <xs:import namespace="http://www.vraweb.org/vracore4.htm"
         schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
     <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
-
+    
+    
+    <xs:element name="precious">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="precious:inMovie" minOccurs="0"/>
+                <xs:element ref="precious:realWorld" minOccurs="0"/>     
+            </xs:sequence>
+        </xs:complexType>   
+    </xs:element>
+    
+    
+    <xs:element name="realWorld">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="precious:modsSection" minOccurs="0"/>
+                <xs:element name="relatedMovie" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="precious:relatedCharacter" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="precious:vraSection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
     <xs:element name="inMovie">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="inMovie:modsSection" minOccurs="0"/>
-                <xs:element name="relatedMovie" type="xs:string" minOccurs="1"/>
-                <xs:element name="itemType" type="xs:string" minOccurs="0"/>
-                <xs:element ref="inMovie:relatedCharacter" minOccurs="0" maxOccurs="unbounded"/>
-                <xs:element ref="inMovie:vraSection" minOccurs="0"/>
+                <xs:element ref="precious:modsSection" minOccurs="0"/>
+                <xs:element name="relatedMovie" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="precious:relatedCharacter" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="precious:vraSection" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -26,8 +47,8 @@
     <xs:element name="relatedCharacter">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="characterName" type="xs:string"/>
-                <xs:element name="actorName" type="xs:string"/>
+                <xs:element name="characterName" type="xs:string" minOccurs="0"/>
+                <xs:element name="actorName" type="xs:string" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType> 
     </xs:element>
