@@ -21,8 +21,7 @@
         </xs:complexType>   
     </xs:element>
     
-    
-    <xs:element name="realWorld">
+    <xs:element name="inMovie">
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="precious:modsSection" minOccurs="0"/>
@@ -33,7 +32,7 @@
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="inMovie">
+    <xs:element name="realWorld">
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="precious:modsSection" minOccurs="0"/>
