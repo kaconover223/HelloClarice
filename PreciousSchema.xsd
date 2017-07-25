@@ -15,11 +15,22 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="inMovie:modsSection" minOccurs="0"/>
+                <xs:element name="relatedMovie" type="xs:string" minOccurs="1"/>
+                <xs:element ref="inMovie:relatedCharacter" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element ref="inMovie:vraSection" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-
+    
+    <xs:element name="relatedCharacter">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="characterName" type="xs:string"/>
+                <xs:element name="actorName" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType> 
+    </xs:element>
+        
     <xs:element name="modsSection">
         <xs:complexType>
             <xs:sequence>
