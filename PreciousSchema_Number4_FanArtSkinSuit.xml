@@ -1,0 +1,67 @@
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+
+    <inMovie>
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+        <relatedCharacter>
+            <characterName>Jame Gumb</characterName>
+            <characterName>Buffalo Bill</characterName>
+            <characterName>Jame “Buffalo Bill” Gumb</characterName>
+            <characterName>“Jack Gordon” - alias</characterName>
+            <characterName>“John Grant” – alias</characterName>
+            <actorName>Levine, Ted (1958 - )</actorName>
+        </relatedCharacter>
+    </inMovie>
+
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Skin Suit Fan Art</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Pesevski, Aleksandar</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>still image</mods:typeOfResource>
+                <mods:genre>graphic material</mods:genre>
+                <mods:originInfo>
+                    <mods:dateCreated keyDate="yes" encoding="w3cdtf">2001-04-08</mods:dateCreated>
+                    <mods:issuance>single unit</mods:issuance>
+                </mods:originInfo>
+                <mods:physicalDescription>
+                    <mods:form type="material">paper</mods:form>
+                    <mods:form type="technique">graphic design</mods:form>
+                    <mods:extent>24 x 36 inches</mods:extent>
+                </mods:physicalDescription>
+                <mods:abstract type="summary">Fan created art of the Buffalo Bill skin suit. The poster was made for the movie's 10 year anniversary re-release.</mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:subject>
+                    <mods:topic>Buffalo Bill (Fictitious Character)</mods:topic>
+                    <mods:topic>Graphic Art</mods:topic>
+                    <mods:topic>Digital Art</mods:topic>
+                    <mods:tpoic>Motion Picture Imagery</mods:tpoic>
+                    <mods:tpoic>Advertising</mods:tpoic>
+                    <mods:topic>Film Posters</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reporduction">Creative
+                    Commons</mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+
+</precious>

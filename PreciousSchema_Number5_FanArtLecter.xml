@@ -1,0 +1,61 @@
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+
+    <inMovie>
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+        <relatedCharacter>
+            <characterName>Hannibal Lecter</characterName>
+            <characterName>Dr. Hannibal Lector</characterName>
+            <characterName>"Hannibal the Cannibal"</characterName>
+        </relatedCharacter>
+    </inMovie>
+
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>The Screaming of the Lambs (Fan Art)</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Lowe, Chelsea</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Artist</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>still image</mods:typeOfResource>
+                <mods:genre>graphic material</mods:genre>
+                <mods:originInfo>
+                    <mods:dateCreated keyDate="yes" encoding="w3cdtf">2013</mods:dateCreated>
+                </mods:originInfo>
+                <mods:physicalDescription>
+                    <mods:form type="material">canson bristol board</mods:form>
+                    <mods:form type="technique">graphite pencil</mods:form>
+                    <mods:extent>16 x 9 inches</mods:extent>
+                </mods:physicalDescription>
+                <mods:abstract type="summary">Fan art depicting Anthony Hoppkins (Actor) as Hannibal Lecter (Ficticious Character).</mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:subject authority="lcsh">
+                    <mods:topic>Lecter, Hannibal (Fictitious Character)</mods:topic>
+                    <mods:genre>Drawing</mods:genre>
+                    <mods:genre>Traditional Art</mods:genre>
+                    <mods:topic>Fan Art</mods:topic>
+                    <mods:genre>Motion Picture Art</mods:genre>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reporduction">Unknown</mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+
+</precious>

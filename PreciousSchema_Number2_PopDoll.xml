@@ -1,0 +1,68 @@
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+
+    <inMovie>
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+        <relatedCharacter>
+            <characterName>Hannibal Lecter</characterName>
+            <characterName>Dr. Hannibal Lector</characterName>
+            <characterName>"Hannibal the Cannibal"</characterName>
+        </relatedCharacter>
+    </inMovie>
+
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Vinyl Figure of Hannibal Lecter (Pop! Movies)</mods:title>
+                </mods:titleInfo>
+                <mods:name type="corporate" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Funko LLC</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Manufacturer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+                <mods:genre>Action Figure - collectable</mods:genre>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="text">Lynwood, WA</mods:placeTerm>
+                        <mods:placeTerm type="text">Made in China</mods:placeTerm>
+                    </mods:place>
+                    <mods:publisher>Funko LLC</mods:publisher>
+                    <mods:copyrightDate keyDate="yes" encoding="w3cdtf">2013</mods:copyrightDate>
+                    <mods:edition>The Silence of the Lambs 25</mods:edition>
+                </mods:originInfo>
+                <mods:physicalDescription>
+                    <mods:form type="material">Vinyl</mods:form>
+                    <mods:extent>2.5 x 2.5 x 3.8 inches</mods:extent>
+                    <mods:extent>2.4 ounces</mods:extent>
+                    <mods:extent>Model Number 3115</mods:extent>
+                </mods:physicalDescription>
+                <mods:abstract displayLabel="Content description">Pop! toy depicting Hannibal Lecter in Memphis security restraints.</mods:abstract>
+                <mods:targetAudience>Adult (Age 17+)</mods:targetAudience>
+                <mods:subject>
+                    <mods:topic>Figurine - Fictional Characters</mods:topic>
+                    <mods:topic>Collectables</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reproduction" displayLabel="Restricted">TM and
+                    Copyright 1991 Orion Pictures Corpration. Copyright 2013 Metro-Goldwyn-Mayer
+                    Studies Inc. All Rights Reserves. Copyright 1991 Ed
+                    Cubberly.</mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+
+</precious>
