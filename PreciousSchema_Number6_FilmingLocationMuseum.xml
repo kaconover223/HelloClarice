@@ -9,7 +9,7 @@
                 <mods:titleInfo>
                     <mods:title>Entomologist Office</mods:title>
                 </mods:titleInfo>
-                    <mods:name> 
+                <mods:name>
                     <mods:role>
                         <mods:roleTerm>Setting</mods:roleTerm>
                     </mods:role>
@@ -30,10 +30,10 @@
                 </mods:recordInfo>
             </mods:mods>
         </modsSection>
-        
+
         <relatedMovie>The Silence of the Lambs</relatedMovie>
         <relatedCharacter>
-            <characterName>Clarice Starling</characterName> 
+            <characterName>Clarice Starling</characterName>
             <characterName>Agent Starling</characterName>
             <characterName>Roden (Entomologist)</characterName>
             <characterName>Pilcher (Entomologist)</characterName>
@@ -61,7 +61,7 @@
                 </mods:originInfo>
                 <mods:abstract type="summary">Carnegie Museum of Natural History is depicted as the entomology office where Jodie Foster (Actor) as Clarice Starling (Fictitious Character) seeks assistance in identifying the type of moth discovered during an autopsy. The Carnegie Museum of Natural History in the located at the Carnegie Institute, 4400 Forbes Avenue, Oakland.</mods:abstract>
                 <mods:subject authority="lcsh">
-                    <mods:topic>Starling,Clarice (Fictitious Character)</mods:topic>
+                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
                     <mods:genre>Fiction</mods:genre>
                     <mods:genre>Serial Murderers</mods:genre>
                     <mods:genre>Government Investigators</mods:genre>
@@ -76,6 +76,9 @@
                         <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
                     </mods:titleInfo>
                 </mods:relatedItem>
+                <mods:accessCondition>The Carnegie Museum of Natural History is open to the public
+                    Monday - Sunday, various hours. The area where filming occured is
+                    restricted.</mods:accessCondition>
                 <mods:recordInfo>
                     <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
                     <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>

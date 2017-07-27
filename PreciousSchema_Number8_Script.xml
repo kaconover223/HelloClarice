@@ -27,55 +27,52 @@
         <modsSection>
             <mods:mods>
                 <mods:titleInfo>
-                    <mods:title>The Silence of the Lambs Novel (Signed by Author)</mods:title>
+                    <mods:title>The Silence of the Lambs Original Film Script</mods:title>
                 </mods:titleInfo>
                 <mods:name type="personal" authority="viaf"
                     authorityURI="http://viaf.org/vaif/140720447">
-                    <mods:namePart>Harris, Thomas (1940-)</mods:namePart>
+                    <mods:namePart>Tally, Ted (1952-)</mods:namePart>
                     <mods:role>
-                        <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+                        <mods:roleTerm type="text" authority="marcrelator">Screenwriter</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:typeOfResource>text</mods:typeOfResource>
-                <mods:genre>book</mods:genre>
+                <mods:genre>film script</mods:genre>
                 <mods:originInfo>
                     <mods:place>
                         <mods:placeTerm type="text">New York</mods:placeTerm>
                     </mods:place>
-                    <mods:publisher>St. Martin's Press</mods:publisher>
-                    <mods:dateIssued keyDate="yes" encoding="w3cdtf">1988-05-19</mods:dateIssued>
-                    <mods:copyrightDate keyDate="yes" encoding="w3cdtf">1988</mods:copyrightDate>
-                    <mods:edition>First Edition</mods:edition>
+                    <mods:dateIssued keyDate="yes" encoding="w3cdtf">1989-07-28</mods:dateIssued>
                 </mods:originInfo>
                 <mods:language>
                     <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
                 </mods:language>
                 <mods:physicalDescription>
-                    <mods:form type="material">Hardcover</mods:form>
-                    <mods:extent>352 pages</mods:extent>
-                    <mods:extent>6.1 x1.2 x 9.6 inches</mods:extent>
+                    <mods:form type="material">paper</mods:form>
+                    <mods:extent>118 pages</mods:extent>
+                    <mods:extent>8.5 x 11 inches</mods:extent>
                 </mods:physicalDescription>
-                <mods:abstract displayLabel="Content description">First edition of the novel, The Silence of the Lambs, (1988) signed by the author, Thomas Harris. Thomas Harris (born April 11, 1940) is an American writer, best known for a series of suspense novels about his most famous character, Hannibal Lecter. All of his works have been made into films, the most notable being the multi-Oscar winning The Silence of the Lambs, which became only the third film in Academy Award history to sweep the Oscars in major categories.</mods:abstract>
-                <mods:abstract type="summary">A serial murderer known by a grotesquely apt nickname, Buffalo Bill, is stalking particulat women. A young F.B.I. trainee is assigned to interview a mental patient, a brilliant psychiatrist and killer, for his insights into the crime.</mods:abstract>
+                <mods:abstract displayLabel="Content description">Original Screenplay written by Ted Tally, based on the novel by Thomas Harris.</mods:abstract>
+                <mods:abstract type="summary">A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.</mods:abstract>
                 <mods:targetAudience>Adult</mods:targetAudience>
-                <mods:note>Donated by Kathy Bates</mods:note>
+                <mods:note>1992 Academy Awards Best Writing, Screenplay Based on Material Previously Produced or Published
+        Ted Tally </mods:note>
                 <mods:subject authority="lcsh">
-                    <mods:topic>Hannibal Lecter (Fictitious Character)</mods:topic>
                     <mods:topic>Fiction</mods:topic>
                     <mods:topic>Serial Murderers</mods:topic>
                     <mods:topic>Government Investigators</mods:topic>
+                    <mods:topic>Hannibal Lecter (Fictitious Character)</mods:topic>
+                    <mods:topic>Buffalo Bill (Fictitious Character)</mods:topic>
+                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
                 </mods:subject>
-                <mods:classification authority="lcc">PS3558.A6558</mods:classification>
                 <mods:relatedItem type="series">
                     <mods:titleInfo>
                         <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
                     </mods:titleInfo>
                 </mods:relatedItem>
-                <mods:accessCondition type="use and reporduction">Rights status not evaluated. For
-                    general information see "Copyright and Other
-                    Restrictions".</mods:accessCondition>
+                <mods:accessCondition type="use and reporduction">Copyright and Other Restrictions</mods:accessCondition>
                 <mods:recordInfo>
-                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-26</mods:recordCreationDate>
                     <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
                 </mods:recordInfo>
             </mods:mods>

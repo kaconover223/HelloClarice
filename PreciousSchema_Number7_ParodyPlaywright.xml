@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+
+    <inMovie>
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+        <relatedCharacter>
+            <characterName>Clarice Starling</characterName>
+            <characterName>Agent Starling</characterName>
+            <characterName>Hannibal Lecter</characterName>
+            <characterName>Dr. Hannibal Lecter</characterName>
+            <characterName>“Hannibal the Cannibal”</characterName>
+            <characterName>Jame Gumb</characterName>
+            <characterName>Buffalo Bill</characterName>
+            <characterName>Jame “Buffalo Bill” Gumb</characterName>
+            <characterName>“Jack Gordon” - alias</characterName>
+            <characterName>“John Grant” – alias</characterName>
+            <characterName>Jack Crawford</characterName>
+            <characterName>Dr. Crawford</characterName>
+            <characterName>Catherine Martin</characterName>
+        </relatedCharacter>
+    </inMovie>
+
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Silence! The Musical Original Playwrigth</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Bell, Hunter</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Writer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Gatelli, Christopher</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Director</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Kaplan, Jon</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Composer</mods:roleTerm>
+                        <mods:roleTerm/>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Kaplan, Al</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Composer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:originInfo>
+                    <mods:place>
+                        <mods:placeTerm type="text">New York</mods:placeTerm>
+                    </mods:place>
+                    <mods:dateOther keyDate="yes" encoding="w3cdtf">2005-08-12</mods:dateOther>
+                    <mods:edition>Original Performance</mods:edition>
+                </mods:originInfo>
+                <mods:language>
+                    <mods:languageTerm type="text" authority="iso639-2b">English</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form type="material">Paper</mods:form>
+                    <mods:extent>8.5 x 11 inches</mods:extent>
+                    <mods:form type="technique">Performance</mods:form>
+                </mods:physicalDescription>
+                <mods:abstract type="summary">
+                    SILENCE! The Musical tells the story of rookie FBI agent Clarice Starling as she matches wits with the deliciously brilliant but insane cannibal, Dr. Hannibal Lecter, in order to catch the serial killer known as Buffalo Bill. Clarice faces her own demons—and a troupe of singing and dancing lambs—while racing against the clock to unlock Lecter’s clues before the hapless Catherine Martin is killed and skinned by Buffalo Bill.
+        Musical Numbers:
+        1. "Silence!" – The Lambs
+        2. "Thish Ish It" – Clarice, Crawford, and Ensemble
+        3. "The Right Guide" – Chilton, Clarice, and Ensemble
+        4. "If I Could Smell Her Cunt" – Dr. Lecter
+        5. "Papa Shtarling" – Papa Starling and Clarice
+        6. "It's Agent Shtarling" – Clarice
+        7. "Are You About a Size 14?" – Buffalo Bill, Catherine, and Ensemble
+        8. "My Daughter Is Catherine" – Senator Martin
+        9. "Quid Pro Quo" – Dr. Lecter and Clarice
+        10. "I'd Fuck Me" – Bill and Ensemble
+        11. "It's Me!" – Dr. Lecter and Ensemble
+        12. "Catherine Dies Today" – Ardelia, Clarice, Bill, and Ensemble
+        13. "Papa Shtarling" (Reprise) – Papa Starling and Clarice
+        14. "Put the Fucking Lotion in the Basket" – Bill and Catherine
+        15. "We're Going In!" – Starling, Bill, and Ensemble
+        16. "Bill's Death (In the Dark with a Maniac)" – Starling, Bill, Catherine, and Ensemble
+        17. "Silence" (Reprise/Finale) – Clarice, Dr. Lecter, Crawford, and The Lambs
+    </mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:note/>
+                <mods:subject>
+                    <mods:topic>Musicals</mods:topic>
+                    <mods:topic>Musicals Based on Films</mods:topic>
+                    <mods:topic>Musicals Based on Novels</mods:topic>
+                    <mods:topic>Off-Broadway Musical</mods:topic>
+                    <mods:topic>Comdey</mods:topic>
+                    <mods:topic>Parody</mods:topic>
+                    <mods:topic>Live performance</mods:topic>
+                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
+                    <mods:topic>Hannibal Lecter (Ficticious Character)</mods:topic>
+                    <mods:topic>Buffalo Bill (Ficticious Character)</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reporduction">Copyright</mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-26</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+
+</precious>

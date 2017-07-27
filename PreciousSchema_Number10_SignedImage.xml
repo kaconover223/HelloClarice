@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+    
+    <inMovie>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Clarice Starling apprehending Buffalo Bill in the basement of his home Image</mods:title>
+                </mods:titleInfo>
+                <mods:typeOfResource>still image</mods:typeOfResource>
+                <mods:genre>graphic material</mods:genre>
+                <mods:originInfo>
+                    <mods:dateCreated keyDate="yes" encoding="w3cdtf">1991</mods:dateCreated>
+                </mods:originInfo>
+                <mods:physicalDescription>
+                    <mods:form type="material">image</mods:form>
+                    <mods:extent>8 x 10 inches</mods:extent>
+                </mods:physicalDescription>
+                <mods:abstract type="summary">Scene in which Clarice Starling(Ficticious Character) is attempting to apprehend Buffalo Bill (Ficticious Character) in the basement of his home. </mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:subject authority="lcsh">
+                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
+                    <mods:topic>Serial Murderers</mods:topic>
+                    <mods:topic>Image</mods:topic>
+                    <mods:topic>Photographic Image</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-26</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+        
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+        <relatedCharacter>
+            <characterName>Clarice Starling</characterName>
+            <characterName>Agent Starling</characterName>
+            <actorName>Foster, Jodie (1962 - )</actorName>
+        </relatedCharacter>
+    </inMovie>
+    
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>Filming of The Silence of the Lambs, Autographed Production Image</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Strong Heart/Demme Production</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Publisher</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>still image</mods:typeOfResource>
+                <mods:originInfo>
+                    <mods:dateCreated keyDate="yes" encoding="w3cdtf">1991</mods:dateCreated>
+                </mods:originInfo>
+                <mods:physicalDescription>
+                    <mods:form type="material">image</mods:form>
+                    <mods:extent>8 x 10 inches</mods:extent>
+                </mods:physicalDescription>
+                <mods:abstract type="summary">Production still image from the 1991 film, The Silence of the Lambs, of Clarice Starling (Ficticious Character) apprehending Buffalo Bill (Ficticious Character) in the basement of his home. The image is signed by actress Jodie Foster.</mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:subject authority="lcsh">
+                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
+                    <mods:topic>Fiction</mods:topic>
+                    <mods:topic>Serial Murderers</mods:topic>
+                    <mods:topic>Government Investigators</mods:topic>
+                    <mods:topic>Image</mods:topic>
+                    <mods:topic>Photographic Image</mods:topic>
+                    <mods:topic>Film Production</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-26</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+    
+</precious>

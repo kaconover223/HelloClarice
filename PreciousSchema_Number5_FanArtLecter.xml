@@ -9,6 +9,7 @@
             <characterName>Hannibal Lecter</characterName>
             <characterName>Dr. Hannibal Lector</characterName>
             <characterName>"Hannibal the Cannibal"</characterName>
+            <actorName>Hopkins, Anthony (1937 - )</actorName>
         </relatedCharacter>
     </inMovie>
 
@@ -38,7 +39,7 @@
                 <mods:abstract type="summary">Fan art depicting Anthony Hoppkins (Actor) as Hannibal Lecter (Ficticious Character).</mods:abstract>
                 <mods:targetAudience>Adult</mods:targetAudience>
                 <mods:subject authority="lcsh">
-                    <mods:topic>Lecter, Hannibal (Fictitious Character)</mods:topic>
+                    <mods:topic>Hannibal Lecter (Fictitious Character)</mods:topic>
                     <mods:genre>Drawing</mods:genre>
                     <mods:genre>Traditional Art</mods:genre>
                     <mods:topic>Fan Art</mods:topic>
