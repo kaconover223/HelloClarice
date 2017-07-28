@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <precious xmlns="https://github.com/kaconover223/HelloClarice"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
-    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
 
     <inMovie>
@@ -11,7 +12,7 @@
             <characterName>Jame “Buffalo Bill” Gumb</characterName>
             <characterName>“Jack Gordon” - alias</characterName>
             <characterName>“John Grant” – alias</characterName>
-            <actorName>Levine, Ted (1958 - )</actorName>
+            <actorName>Levine, Ted (1957 - )</actorName>
         </relatedCharacter>
     </inMovie>
 

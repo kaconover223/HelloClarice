@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <precious xmlns="https://github.com/kaconover223/HelloClarice"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
-    xmlns:vra="http://www.vraweb.org/vracore4.htm"
     xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
 
     <inMovie>
@@ -64,5 +64,5 @@
             </mods:mods>
         </modsSection>
     </realWorld>
-
+    
 </precious>

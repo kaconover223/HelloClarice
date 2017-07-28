@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<precious xmlns="https://github.com/kaconover223/HelloClarice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
+
+    <inMovie>
+        <relatedMovie>The Silence of the Lambs</relatedMovie>
+    </inMovie>
+
+    <realWorld>
+        <modsSection>
+            <mods:mods>
+                <mods:titleInfo>
+                    <mods:title>The Silence of the Lambs Soundtrack and Score</mods:title>
+                </mods:titleInfo>
+                <mods:name type="personal" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Shore, Howard (1946-)</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Composer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:name type="corporate" authority="viaf"
+                    authorityURI="http://viaf.org/vaif/140720447">
+                    <mods:namePart>Munich Symphony</mods:namePart>
+                    <mods:role>
+                        <mods:roleTerm type="text" authority="marcrelator">Performer</mods:roleTerm>
+                    </mods:role>
+                </mods:name>
+                <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+                <mods:genre authority="lcgft">film soundtracks</mods:genre>
+                <mods:originInfo>
+                    <mods:publisher>MCA Records</mods:publisher>
+                    <mods:copyrightDate keyDate="yes" encoding="w3cdtf">1991</mods:copyrightDate>
+                </mods:originInfo>
+                <mods:language>
+                    <mods:languageTerm type="text" authority="iso639-2b">eng</mods:languageTerm>
+                </mods:language>
+                <mods:physicalDescription>
+                    <mods:form authority="lcgft">film soundtracks</mods:form>
+                </mods:physicalDescription>
+                <mods:abstract>Compact disc version of the original motion picture soundtrack, composed by Howard Shore.
+                    Track List
+                    1. 	Main Title [5:09]
+                    2. 	The Asylum [3:58]
+                    3. 	Clarice [3:07]
+                    4. 	Return To The Asylum [2:39]
+                    5. 	The Abduction [3:05]
+                    6. 	Quid Pro Quo [4:44]
+                    7. 	Lecter In Memphis [5:45]
+                    8. 	Lambs Screaming [5:38]
+                    9. 	Lecter Escapes [5:09]
+                    10. Belvedere, Ohio [3:36]
+                    11. The Moth [2:22]
+                    12. The Cellar [7:06]
+                    13. Finale [4:51]
+                </mods:abstract>
+                <mods:targetAudience>Adult</mods:targetAudience>
+                <mods:subject authority="lcsh">
+                    <mods:topic>Film Soundtrack</mods:topic>
+                    <mods:topic>Compact Disc</mods:topic>
+                    <mods:genre>Motion Picture Music</mods:genre>
+                    <mods:genre>Music</mods:genre>
+                    <mods:genre>Scores</mods:genre>
+                    <mods:topic>Symphonies</mods:topic>
+                </mods:subject>
+                <mods:relatedItem type="series">
+                    <mods:titleInfo>
+                        <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
+                    </mods:titleInfo>
+                </mods:relatedItem>
+                <mods:accessCondition type="use and reporduction">Copyright and Other
+                    Restrictions</mods:accessCondition>
+                <mods:recordInfo>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-28</mods:recordCreationDate>
+                    <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
+                </mods:recordInfo>
+            </mods:mods>
+        </modsSection>
+    </realWorld>
+
+</precious>

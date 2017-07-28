@@ -3,19 +3,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
-
+    
     <inMovie>
         <modsSection>
             <mods:mods>
                 <mods:titleInfo>
-                    <mods:title>Entomologist Office</mods:title>
+                    <mods:title>Holding Cell, Shelby County Courthouse</mods:title>
                 </mods:titleInfo>
                 <mods:name>
                     <mods:role>
                         <mods:roleTerm>Setting</mods:roleTerm>
                     </mods:role>
                 </mods:name>
-                <mods:abstract type="summary">Clarice Starling visits the entomology office to seek assistance in identifying the type of moth discovered during an autopsy.</mods:abstract>
+                <mods:abstract type="summary">Hanniabl Lecter is held at the Shelby County Courthouse in Memphis Tennessee. Lecter escapes from the holding cell by "borrowing" the face of one of his guards.</mods:abstract>
                 <mods:subject authority="lcsh">
                     <mods:topic>Serial Murderers</mods:topic>
                     <mods:topic>Government Investigators</mods:topic>
@@ -26,67 +26,63 @@
                     </mods:titleInfo>
                 </mods:relatedItem>
                 <mods:recordInfo>
-                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-28</mods:recordCreationDate>
                     <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
                 </mods:recordInfo>
             </mods:mods>
         </modsSection>
-
+        
         <relatedMovie>The Silence of the Lambs</relatedMovie>
         <relatedCharacter>
-            <characterName>Clarice Starling</characterName>
-            <characterName>Agent Starling</characterName>
-            <characterName>Roden (Entomologist)</characterName>
-            <characterName>Pilcher (Entomologist)</characterName>
-            <actorName>Foster, Jodie (1962 - )</actorName>
-            <actorName>Butler, Dan (1954 - )</actorName>
-            <actorName>Lazar, Paul</actorName>
+            <characterName>Hannibal Lecter</characterName>
+            <characterName>Dr. Hannibal Lector</characterName>
+            <characterName>"Hannibal the Cannibal"</characterName>
+            <actorName>Hopkins, Anthony (1937 - )</actorName>
         </relatedCharacter>
     </inMovie>
-
+    
     <realWorld>
         <modsSection>
             <mods:mods>
                 <mods:titleInfo>
-                    <mods:title>Carnegie Museum of Natural History</mods:title>
+                    <mods:title>Soldiers and Sailors Memorial Hall and Museum</mods:title>
                 </mods:titleInfo>
                 <mods:name type="corporate" authority="viaf"
                     authorityURI="http://viaf.org/vaif/140720447">
-                    <mods:namePart>Carnegie Museum of Natural History.</mods:namePart>
+                    <mods:namePart>University of Pittsburgh</mods:namePart>
                     <mods:role>
                         <mods:roleTerm type="text" authority="marcrelator">Filming Location</mods:roleTerm>
                     </mods:role>
                 </mods:name>
                 <mods:originInfo>
                     <mods:dateCaptured keyDate="yes" encoding="w3cdtf">1991</mods:dateCaptured>
-                    <mods:dateCreated>1896</mods:dateCreated>
+                    <mods:dateCreated keyDate="yes" encoding="w3cdtf">1910</mods:dateCreated>
                 </mods:originInfo>
-                <mods:abstract type="summary">Carnegie Museum of Natural History is depicted as the entomology office where Jodie Foster (Actor) as Clarice Starling (Fictitious Character) seeks assistance in identifying the type of moth discovered during an autopsy. The Carnegie Museum of Natural History in the located at the Carnegie Institute, 4400 Forbes Avenue, Oakland.</mods:abstract>
+                <mods:abstract type="summary">Soldiers and Sailors Memorial Hall and Museum Grand Ballroom, built in 1910, is the filming location of a fictitious holding cell in Shelby County Courthouse (Memphis, Tennessee). ‘Memphis Town Hall’ is where Hannibal Lecter (fictitious character) escapes from the holding cell and “borrows” the face of his guard. Soldiers and Sailors Memorial Hall and Museum is located at 4141 Fifth Avenue, Pittsburgh, Pa.  </mods:abstract>
                 <mods:subject authority="lcsh">
-                    <mods:topic>Clarice Starling (Fictitious Character)</mods:topic>
+                    <mods:topic>Hannibal Lecter (Fictitious Character)</mods:topic>
                     <mods:genre>Fiction</mods:genre>
                     <mods:genre>Serial Murderers</mods:genre>
                     <mods:genre>Government Investigators</mods:genre>
                     <mods:topic>Motion Picture Locations</mods:topic>
                     <mods:topic>Museum</mods:topic>
-                    <mods:topic>Natural History Museums</mods:topic>
                     <mods:geographic>Pittsburgh, Pa.</mods:geographic>
-                    <mods:geographic>40.4434 degrees North, 79.9507 degrees West</mods:geographic>
                 </mods:subject>
                 <mods:relatedItem type="series">
                     <mods:titleInfo>
                         <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
                     </mods:titleInfo>
                 </mods:relatedItem>
-                <mods:accessCondition>The Carnegie Museum of Natural History is open to the public
-                    Monday - Sunday, various hours. The area where filming occured is
+                <mods:accessCondition>Soldiers and Sailors Memorial Hall and Museum is open to the public
+                    Monday - Saturday, 10am - 4pm. The area where filming occured is
                     restricted.</mods:accessCondition>
                 <mods:recordInfo>
-                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
+                    <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-28</mods:recordCreationDate>
                     <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
                 </mods:recordInfo>
             </mods:mods>
         </modsSection>
     </realWorld>
-
+    
 </precious>
+

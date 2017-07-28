@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <precious xmlns="https://github.com/kaconover223/HelloClarice"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3"
-    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/kaconover223/HelloClarice https://raw.githubusercontent.com/kaconover223/HelloClarice/master/PreciousSchema.xsd">
 
     <inMovie>
@@ -50,7 +51,7 @@
                         <mods:title>Hannibal Lecter, Series 2 - The Silence of the Lambs</mods:title>
                     </mods:titleInfo>
                 </mods:relatedItem>
-                <mods:accessCondition type="use and reporduction">Unknown</mods:accessCondition>
+                <mods:accessCondition type="use and reporduction">Creative Commons</mods:accessCondition>
                 <mods:recordInfo>
                     <mods:recordCreationDate keyDate="yes" encoding="w3cdtf">2017-07-25</mods:recordCreationDate>
                     <mods:recordContentSource>Kimberly Conover and Ryan Woodward</mods:recordContentSource>
