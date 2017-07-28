@@ -11,20 +11,18 @@
             </mods:mods>
         </modsSection>
         <relatedMovie></relatedMovie>
-        <relatedCharacter></relatedCharacter>
-        <vraSection>
-            <vra:work></vra:work>
-        </vraSection>
+        <relatedCharacter>
+            <characterName></characterName>
+            <actorName></actorName>
+        </relatedCharacter>        
     </inMovie>
+    
     <realWorld>
         <modsSection>
             <mods:mods>
                 <mods:abstract></mods:abstract>
             </mods:mods>
         </modsSection>
-        <vraSection>
-            <vra:work></vra:work>
-        </vraSection>
     </realWorld>
     
 </precious>
